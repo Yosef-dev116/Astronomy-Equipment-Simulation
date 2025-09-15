@@ -1,0 +1,29 @@
+# FORMAT:
+# physical_type, motion_type, mount_plate_type, weight_rating, computerized_goto
+# where: physical_type is T (Tripod) or D (Dobsonian base)
+# 	 motion_type is AA (Alt-Az) or EQ (Equatorial)
+#	 mount_plate_type is V (Vixen), D (Losmandy), NA (Not Applicable)
+#	 weight rating is an integer value in kg
+#	 computerized_goto is a Boolean value
+#
+# Mount plate type codes can be looked up via mount_type_to_text in OpticalToolbox
+T,AA,V,11,N
+D,AA,NA,8,Y
+T,EQ,V,6,Y
+D,AA,NA,16,N
+D,AA,NA,5,Y
+T,EQ,V,9,N
+T,EQ,D,26,Y
+T,AA,V,10,N
+T,EQ,D,11,Y
+D,AA,NA,18,Y
+T,EQ,V,9,Y
+T,AA,V,17,N
+T,EQ,V,25,Y
+D,AA,NA,26,N
+D,AA,NA,27,N
+T,AA,D,8,N
+T,EQ,V,22,Y
+D,AA,NA,11,Y
+T,AA,V,13,N
+D,AA,NA,13,N

@@ -1,0 +1,25 @@
+# FORMAT:
+# type, afov, focal length
+# where: type is K (Kellner), P (Plössl),
+#        O (Orthoscopic), and N (Nagler)
+# and afov is in degrees, focal length is given in millimetres (mm)
+P,61,28
+N,102,3
+O,45,17
+N,103,12
+O,40,50
+O,45,12
+P,62,22
+P,58,50
+K,48,2
+K,40,4
+N,101,2
+N,109,12
+O,43,15
+K,47,35
+O,40,20
+K,47,10
+K,46,22
+K,47,15
+K,42,2
+K,40,2

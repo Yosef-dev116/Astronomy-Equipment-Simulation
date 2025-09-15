@@ -1,0 +1,23 @@
+# FORMAT:
+# type, aperture, focal length, mount plate type, weight
+# where: type is G (Galilean), N (Newtonian),
+#        S (Schmidt-Cassegrain), and M (Maksutov-Cassegrain)
+# aperture and focal length are given in millimetres (mm)
+# mount plate type is V (Vixen), D (Losmandy), or NA (not applicable), and
+# weight is an integer (kg)
+G,130,910,V,11
+G,130,1170,V,11
+N,300,2700,D,25
+N,300,1800,D,25
+M,180,2700,V,15
+N,300,3000,V,25
+N,300,2400,V,25
+G,180,1800,V,15
+S,300,3900,V,25
+N,300,2700,NA,25
+M,180,2340,V,15
+G,150,600,D,12
+G,300,2400,V,25
+N,300,2400,D,25
+N,300,3000,D,25
+N,300,2700,V,25

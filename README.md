@@ -19,5 +19,5 @@ It was built as a learning project to practice Python classes, program flow, and
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Yosef-dev116/astronomy-equipment-store-sim.git
-cd astronomy-equipment-store-sim
+git clone https://github.com/Yosef-dev116/Astronomy-Equipment-Simulation
+cd Astronomy-Equipment-Simulation

@@ -21,3 +21,8 @@ It was built as a learning project to practice Python classes, program flow, and
 ```bash
 git clone https://github.com/Yosef-dev116/Astronomy-Equipment-Simulation
 cd Astronomy-Equipment-Simulation
+```
+2. Run the program:
+```bash
+python main.py
+
